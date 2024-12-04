@@ -1,0 +1,1 @@
+import{_ as o,g as n,v as s,x as r,z as a,A as l,t as p,B as c}from"./DW7qhEbX.js";const d={};function m(i,e){const t=n("AppAlert");return p(),s("div",null,[e[1]||(e[1]=r("h1",null,"Welcome to the homepage",-1)),a(t,null,{default:l(()=>e[0]||(e[0]=[c(" This is an auto-imported component ")])),_:1})])}const _=o(d,[["render",m]]);export{_ as default};
