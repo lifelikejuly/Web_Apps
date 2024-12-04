@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app:{
      baseURL: '/Web_Apps/',
-    //  buildAssetsDir: 'nuxt_assets',
+     buildAssetsDir: 'nuxt_assets',
     
   },
   experimental: {
