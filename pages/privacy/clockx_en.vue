@@ -1,3 +1,5 @@
+<template>
+
 <h1>Privacy Policy</h1>
 <div>Date updated: <strong>2023/7/23</strong></div>
 <div>Effective Date: <strong>2023/7/23</strong></div>
@@ -74,7 +76,7 @@ We will not publicly disclose the collected personal information. If public disc
 <p>
 With the continuous development of our business, we may conduct mergers, acquisitions, asset transfers and other transactions. We will inform you of the relevant situation, and continue to protect or require new controllers to continue to protect your personal information in accordance with laws and regulations and standards not lower than the requirements of this "Privacy Policy".
 </p>
-<p>
+
 
 <h2>6. Your rights</h2>
 <p>
@@ -86,3 +88,5 @@ During your use of our services, we may provide you with corresponding operation
 <p>
 We may revise the terms of this Privacy Policy from time to time. When a change occurs, we will remind you of the new "Privacy Policy" when the version is updated, and explain the effective date to you. Please read the changed "Privacy Policy" carefully. <strong>If you continue to use our services, you agree that we will process your personal information in accordance with the updated "Privacy Policy". </strong>
 </p>
+
+</template>
